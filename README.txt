@@ -1,4 +1,4 @@
-This dataset contains the data captured in a machine tool process (turning) that includs data from the control system, sensors and tool flank wear.
+This dataset contains the data captured in a machine tool process (turning process) and includes data from the control system, sensors and tool flank wear.
 Data corresponding to 13 diferent tools was acquired and segmented into N segments of 1 s. The total number of considered segments is equal to the number of rows in the dataset, i.e. 2054.	
 Different features were extracted from each of the segments and the flank wear, i.e. Vb, of each tool was calculated.	
 "A schematic representation of the turning process, location of sensors and signal processing is reported in ""Tool remaining useful life prediction using bidirectional recurrent neural networks (brnn)"". The International Journal of Advanced Manufacturing Technology, 125(9-10):4027–4045, 2023"	
